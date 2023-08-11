@@ -1,4 +1,3 @@
-
 import random
 import unittest
 import timeit
@@ -6,6 +5,7 @@ import sys
 
 import isolation
 import game_agent
+import state_agent
 
 from collections import Counter
 from copy import deepcopy
