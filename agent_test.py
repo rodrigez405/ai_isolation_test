@@ -1,12 +1,4 @@
-"""
-This file contains test cases to verify the correct implementation of the
-functions required for this project including minimax, alphabeta, and iterative
-deepening.  The heuristic function is tested for conformance to the expected
-interface, but cannot be automatically assessed for correctness.
 
-STUDENTS SHOULD NOT NEED TO MODIFY THIS CODE.  IT WOULD BE BEST TO TREAT THIS
-FILE AS A BLACK BOX FOR TESTING.
-"""
 import random
 import unittest
 import timeit
